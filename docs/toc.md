@@ -7,7 +7,7 @@
 [ROCK](training/rock/index.md) - Toolset and Basic Hunting  
 [STRATA](training/strata/index.md) - Intel Integration  
 [BUILD](training/build/index.md) - Infrastructure Building and Development  
-[Red](training/red/index.md) - Better Hunting by Seeing the Other Side  
+[RED](training/red/index.md) - Better Hunting by Seeing the Other Side  
 
 ## Wiki  
 
