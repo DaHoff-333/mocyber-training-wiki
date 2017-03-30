@@ -2,7 +2,9 @@
 
 Welcome to the home of the Missouri Cyber Team's official Training Track and all things Cyber Wiki.  Our goal is to provide a clear and linear pipeline for soldiers / airmen assigned to us that is useful regardless of skill or experience level.
 
-## [Table of Contents](docs/index.md)
+## Table of Contents
+
+The [table of contents](docs/toc.md) is a work in progress.
 
 ### How To Contribute
 
