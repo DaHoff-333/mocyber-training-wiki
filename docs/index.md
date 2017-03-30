@@ -1,17 +1,23 @@
 # Welcome to the Cyber Reference Wiki
 
+## Training Track
 
-## Sections  
-[Hunt](hunt/index.md) - Blue/Hunt-related sites  
-[Tools](tools/index.md) - Tools of the trade  
-[Intel](intel/index.md) - All things Intel  
-[How To](howto/index.md) - In-depth walkthroughs and tutorials  
-[References](references/index.md) - Generic IT references to learn the basics  
-[Exercises](exercises/index.md) - Exercises and challenges to hone your craft  
-[Red Team](red/index.md) - Evil shenanigans 
+[STONES 1](training/stones1/index.md) - System and Network Fundementals LVL1
+[STONES 2](training/stones2/index.md) - System and Network Fundementals LVL2
+[ROCK](training/rock/index.md) - Toolset and Basic Hunting
+[STRATA](training/strata/index.md) - Intel Integration
+[BUILD](training/build/index.md) - Infrastructure Building and Development
+[Red](training/red/index.md) - Better Hunting by Seeing the Other Side
 
-  
-  
-  
+## Wiki  
+
+[Hunt](wiki/hunt/index.md) - Blue/Hunt-related sites  
+[Tools](wiki/tools/index.md) - Tools of the trade  
+[Intel](wiki/intel/index.md) - All things Intel  
+[How To](wiki/howto/index.md) - In-depth walkthroughs and tutorials  
+[References](wiki/references/index.md) - Generic IT references to learn the basics  
+[Exercises](wiki/exercises/index.md) - Exercises and challenges to hone your craft  
+[Red Team](wiki/red/index.md) - Evil shenanigans
+
+
 ----
-
