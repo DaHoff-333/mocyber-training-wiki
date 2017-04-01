@@ -1,6 +1,6 @@
-# Welcome to the Cyber Reference Wiki
+# Table of Contents
 
-## Training Track
+## MOCYBER Training Track
 
 [STONES 1](training/stones1/index.md) - System and Network Fundementals LVL1  
 [STONES 2](training/stones2/index.md) - System and Network Fundementals LVL2  
@@ -9,7 +9,7 @@
 [BUILD](training/build/index.md) - Infrastructure Building and Development  
 [RED](training/red/index.md) - Better Hunting by Seeing the Other Side  
 
-## Wiki  
+## General Wiki  
 
 [Hunt](wiki/hunt/index.md) - Blue/Hunt-related sites  
 [Tools](wiki/tools/index.md) - Tools of the trade  
@@ -22,6 +22,5 @@
 ### Style Guide  
 
 [Style Guide](styleguide/index.md) - Keeping things squared away like the pros we are  
-
 
 ----
