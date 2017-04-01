@@ -16,7 +16,7 @@
 
 [overthewire](overthewire.org) - ssh into puzzle servers to hone your terminal and "hacker" skills  
 
-[hacknet(...)]
+[hacknet](http://www.hacknet-os.com/) - fun steam game with some useful concepts
 
 
 ### Pi Time
@@ -31,7 +31,7 @@
 
 [Crypto101](https://9d0df72831e4b345bb93-4b37fd03e6af34f2323bb971f72f0c0d.ssl.cf5.rackcdn.com/Crypto101.pdf) - comprehensive single document  
 
-[encryption for policy makers](https://www.cs.princeton.edu/~felten/encryption_primer.pdf) - high level need-to-know  
+[encryption for policy makers](https://www.cs.princeton.edu/~felten/encryption_primer.pdf) - need-to-know concepts for decision makers
 
 
 ## Networking
@@ -54,7 +54,7 @@
 
 [Hunting with Sysmon](https://onedrive.live.com/redir?resid=D026B4699190F1E6!2843&authkey=!AMvCRTKB_V1J5ow&ithint=file%2cpptx)  
 
-[travisfsmith/sweetsecurity[(https://github.com/TravisFSmith/SweetSecurity) - hands-on project for home that provides a nice overview of the components of the ELK stack on affordable hardware, [presentation link](defensive pi](http://www.irongeek.com/i.php?page=videos/bsidessf2016/bsidessf-110-sweet-security-deploying-a-defensive-raspberry-pi-travis-smith)  
+[travisfsmith/sweetsecurity](https://github.com/TravisFSmith/SweetSecurity) - hands-on project for home that provides a nice overview of the components of the ELK stack on affordable hardware, [presentation](http://www.irongeek.com/i.php?page=videos/bsidessf2016/bsidessf-110-sweet-security-deploying-a-defensive-raspberry-pi-travis-smith)  
 
 
 ## Red Team
