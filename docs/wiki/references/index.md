@@ -123,9 +123,9 @@
 
 [trycatchhcf](https://github.com/trycatchhcf/cloakify) - data exfil
 
-http://tldr-pages.github.io/ - tldr
+http://tldr-pages.github.io/ - tldr; quick explaination and examples instead of reading the man page...
 
-dripcap  
+[dripcap[(https://github.com/dripcap/dripcap) - nice wireshark alternative, solid so far
 
 [perf](http://www.tecmint.com/perf-performance-monitoring-and-analysis-tool-for-linux/) - monitoring and analysis tool  
 
