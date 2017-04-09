@@ -1,11 +1,13 @@
-## Security  
-## Technology  
-## Operations and  
-## Networking  
-## Education  
-## System  
+# S.T.O.N.E.S. 2
 
-## Level 2 Purpose
+**S** ecurity  
+**T** echnology  
+**O** perations *and*  
+**N** etworking  
+**E** ducation  
+**S** ystem  
+
+## Purpose
 
 
 

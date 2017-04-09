@@ -1,11 +1,13 @@
-## Structured  
-## Training for  
-## Robust  
-## Approaches  to
-## Technical  
-## Analysis  
+# S.T.R.A.T.A.
 
-### Purpose
+**S** tructured  
+**T** raining *for*  
+**R** obust  
+**A** pproaches *to*  
+**T** echnical  
+**A** nalysis
+
+## Purpose
 
 
 

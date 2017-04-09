@@ -1,6 +1,5 @@
 # Basic Unix Usage
 
-
 ## History
 
 ### Early On

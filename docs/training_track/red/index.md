@@ -1,8 +1,12 @@
-### Purpose
+# Red Team Operations
+
+**Adversary Emulation**
+
+## Purpose
 
 
 
-### Links
+### Table of Contents
 
 
 
