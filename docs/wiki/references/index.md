@@ -1,8 +1,8 @@
-# Purpose
+# Link Library
 
+This page is an ever evolving project.  There are so many resource and great content available it's important to define a focus.  It's our goal to cultivate "complete operators" who have a wide range of abilities.
 
-
-## Learning
+## General
 
 [freecodecamp](https://freecodecamp.com)  
 
@@ -88,6 +88,8 @@
 [russian hacker ttps](https://medium.com/@chrismcnab/alexseys-ttps-1204d9050551#.pce34us2c)  
 
 [threat playbook](https://gallery.technet.microsoft.com/Advanced-Threat-Analytics-8b0a86bc) - advanced threat analytics attack simulation playbook
+
+[osintframework](http://osintframework.com/)
 
 
 
