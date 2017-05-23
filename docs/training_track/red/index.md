@@ -11,3 +11,5 @@
 
 
 ### Articles
+
+[Cyber Shield Notes](cs17notes.md)

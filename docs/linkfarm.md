@@ -73,6 +73,8 @@ This page is an ever evolving project.  There are so many resource and great con
 
 [labofapenetrationtester](http://www.labofapenetrationtester.com/)  
 
+[FruityWifi](https://github.com/xtr4nge/FruityWifi/wiki/Manual)
+
 
 ## Forensics / Reverse Engineering
 
@@ -111,6 +113,10 @@ This page is an ever evolving project.  There are so many resource and great con
 
 [vagrant]()
 
+## Build
+
+
+
 ### Containers
 
 [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)  
@@ -120,6 +126,7 @@ This page is an ever evolving project.  There are so many resource and great con
 
 [docker for developers](https://developers.redhat.com/video/youtube/czH9qZUusLs/) - devnation 2015 youtube  
 
+[rancher](rancher.com)  
 
 ## Tools
 
